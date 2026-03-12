@@ -1,4 +1,4 @@
-name: Manifestor Deep Diff
+name: Manifestor Deep Diff Fenix
 
 on: workflow_dispatch
 permissions:
