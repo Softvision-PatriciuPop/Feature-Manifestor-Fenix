@@ -30,6 +30,6 @@ Once testing is finished:
 <img width="1375" height="652" alt="image" src="https://github.com/user-attachments/assets/33383ed7-cc4d-43d0-9bb3-cb7bf59cbe45" />
 
 # Project Tracking board
-All of the issues logged for every Feature Config can be found in the Project section along with the QA Status and tested versions.
+All of the issues logged for every Feature Config can be found in the [Project](https://github.com/users/Softvision-PatriciuPop/projects/5/views/1?groupedBy%5BcolumnId%5D=Milestone&visibleFields=%5B%22Title%22%2C%22Status%22%2C%22Labels%22%2C%22Assignees%22%5D&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Labels) section along with the QA Status and tested versions.
 
 <img width="1397" height="682" alt="image" src="https://github.com/user-attachments/assets/a9a28d3a-2cf7-4055-9731-39234c8c72ed" />
